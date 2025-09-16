@@ -1,0 +1,63 @@
+{
+	"id": "a4b26f8f-a244-49ee-8fc5-08c4e138fbbb",
+	"values": [
+		{
+			"key": "MailAdmin",
+			"value": "sysadmin@qacoders.com",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "Password",
+			"value": "1234@Test",
+			"type": "secret",
+			"enabled": true
+		},
+		{
+			"key": "MsgMailRequired",
+			"value": "O campo e-mail é obrigatório.",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "MsgPassRequired",
+			"value": "O campo senha é obrigatório.",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "MsgInvalidData",
+			"value": "E-mail ou senha informados são inválidos.",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "AlterStatusSucess",
+			"value": "Status do usuario atualizado com sucesso para status undefined.",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "PasswordUpdate",
+			"value": "1234@Teste",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "MsgPasswordUpdate",
+			"value": "Senha atualizada com sucesso!",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "MsgUserDelete",
+			"value": "Usuário deletado com sucesso!.",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2025-09-11T18:58:26.794Z",
+	"_postman_exported_using": "Postman/11.62.6"
+}
